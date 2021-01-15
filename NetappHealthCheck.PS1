@@ -7,6 +7,8 @@ Description
 This script collects health information of Netapp Clustered
 ONTAP systems. 
 
+*******USE AT YOUR OWN RISK - NO WARRANTY ******************
+
 In order to run the script, update the $ListLocation
 variable with the fqdn / ip address of the netapp
 clusters you want to check status on.
